@@ -1,5 +1,7 @@
 # Dau The Tien - Software Engineer
 
+I'm a Ruby on Rails developer. Currently based in Melbourne  🇦🇺
+
 *Make it work, make it right, make it fast* - **Kent Beck**
 
 ### Email: tiendt2311@gmail.com
